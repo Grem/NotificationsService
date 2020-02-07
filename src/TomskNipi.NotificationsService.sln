@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomskNipi.NotificationsService.API", "TomskNipi.NotificationsService.API\TomskNipi.NotificationsService.API.csproj", "{C1542EFD-68BA-43B0-8973-7A8F51F5CA2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomskNipi.NotificationsService.Core", "TomskNipi.NotificationsService.Core\TomskNipi.NotificationsService.Core.csproj", "{BE93D6BF-CE12-45B5-BF4F-CD12D1A832AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomskNipi.NotificationsService.Runner", "TomskNipi.NotificationsService.Runner\TomskNipi.NotificationsService.Runner.csproj", "{26CD82B3-88D6-46C6-8DE2-2D29752DA726}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomskNipi.NotificationsService.Tests", "TomskNipi.NotificationsService.Tests\TomskNipi.NotificationsService.Tests.csproj", "{29C3877C-2B6D-4668-8842-634F165F73A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1542EFD-68BA-43B0-8973-7A8F51F5CA2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1542EFD-68BA-43B0-8973-7A8F51F5CA2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1542EFD-68BA-43B0-8973-7A8F51F5CA2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1542EFD-68BA-43B0-8973-7A8F51F5CA2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE93D6BF-CE12-45B5-BF4F-CD12D1A832AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE93D6BF-CE12-45B5-BF4F-CD12D1A832AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE93D6BF-CE12-45B5-BF4F-CD12D1A832AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE93D6BF-CE12-45B5-BF4F-CD12D1A832AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26CD82B3-88D6-46C6-8DE2-2D29752DA726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26CD82B3-88D6-46C6-8DE2-2D29752DA726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26CD82B3-88D6-46C6-8DE2-2D29752DA726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26CD82B3-88D6-46C6-8DE2-2D29752DA726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29C3877C-2B6D-4668-8842-634F165F73A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C3877C-2B6D-4668-8842-634F165F73A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C3877C-2B6D-4668-8842-634F165F73A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C3877C-2B6D-4668-8842-634F165F73A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9135094-C549-453A-A119-73057B9A35C4}
+	EndGlobalSection
+EndGlobal
